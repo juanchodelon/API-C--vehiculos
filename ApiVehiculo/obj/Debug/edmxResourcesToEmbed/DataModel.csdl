@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBTestOneModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="ID_cliente" />
+    </Key>
+    <Property Name="ID_cliente" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" MaxLength="40" FixedLength="true" Unicode="true" />
+    <Property Name="Apellido" Type="String" MaxLength="40" FixedLength="true" Unicode="true" />
+    <Property Name="Telefono" Type="Int32" />
+    <Property Name="Correo" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+    <Property Name="Direccion" Type="String" MaxLength="100" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="Vehiculo">
+    <Key>
+      <PropertyRef Name="ID_vehiculo" />
+    </Key>
+    <Property Name="ID_vehiculo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Placa" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="Modelo" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="Color" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+    <Property Name="Marca" Type="String" MaxLength="20" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="DBTestOneEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" />
+    <EntitySet Name="Vehiculo" EntityType="Self.Vehiculo" />
+  </EntityContainer>
+</Schema>

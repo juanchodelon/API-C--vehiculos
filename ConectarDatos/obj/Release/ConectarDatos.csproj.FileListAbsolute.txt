@@ -1,0 +1,11 @@
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Release\ConectarDatos.dll.config
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Release\ConectarDatos.dll
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Release\ConectarDatos.pdb
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Release\EntityFramework.dll
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Release\EntityFramework.xml
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\obj\Release\ConectarDatos.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\obj\Release\ConectarDatos.csproj.CopyComplete
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\obj\Release\ConectarDatos.dll
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\obj\Release\ConectarDatos.pdb

@@ -1,0 +1,11 @@
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Debug\ConectarDatos.dll
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Debug\ConectarDatos.pdb
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Debug\EntityFramework.dll
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Debug\EntityFramework.xml
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\obj\Debug\ConectarDatos.csproj.CopyComplete
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\obj\Debug\ConectarDatos.dll
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\obj\Debug\ConectarDatos.pdb
+C:\Users\Juan\source\repos\ApiVehiculo\ConectarDatos\obj\Debug\ConectarDatos.csprojAssemblyReference.cache
